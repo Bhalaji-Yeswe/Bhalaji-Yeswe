@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhalaji-Yeswe
 - 👀 I’m interested in Cloud native application developent
-- 🌱 I’m currently learning React.js
+- 🌱 My Favo is React.js
 
 <!---
 Bhalaji-Yeswe/Bhalaji-Yeswe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
