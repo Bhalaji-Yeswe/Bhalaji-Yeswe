@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhalaji-Yeswe
-- 👀 I’m interested in Cloud native application developent
-- 🌱 My Favo is React.js
+- 👀 I’m interested in Front End and Full Stack development.
+- 🌱 My Skills are React, SpringBoot, Java, Javascript, TypeScript and Node.js
 
 <!---
 Bhalaji-Yeswe/Bhalaji-Yeswe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
